@@ -1,0 +1,13 @@
+## 📂 Data Index – Codebase Overview
+
+| File / Folder         | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| `app.py`              | 🎨 Streamlit web interface for uploading resumes and viewing analysis       |
+| `main.py`             | 🧠 Main backend logic for parsing, analyzing, and scoring resumes           |
+| `requirements.txt`    | 📦 List of required Python libraries and dependencies                       |
+| `README.md`           | 📝 Project overview and usage documentation                                 |
+| `data/`               | 📁 Contains sample resumes, job descriptions, and raw input data            |
+| `models/`             | 📁 Trained ML/NLP models for classification and prediction                  |
+| `utils/`              | 🛠 Helper modules and utility functions (e.g., text cleaning, PDF parsing)  |
+| `outputs/` *(optional)*| 📊 Stores generated charts, logs, and visualizations (if used)             |
+| `notebooks/` *(optional)*| 📒 Jupyter Notebooks for EDA, model training and visualization          |
