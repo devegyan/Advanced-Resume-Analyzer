@@ -1,4 +1,3 @@
-# Advanced-Resume-Analyzer
 # 📄 Resume Analyzer 🚀
 
 The **Resume Analyzer** is an intelligent, ML-based tool that helps analyze resumes by extracting key data and evaluating them against job-specific criteria. It uses **Natural Language Processing**, **Machine Learning**, and **Data Visualization** to offer recruiters a quick overview of resume quality.
